@@ -25,4 +25,5 @@ Deep Learning Framework: TensorFlow/Keras
 Machine Learning Library: sci-kit-learn
 Image Processing: OpenCV
 Data Handling: NumPy, pandas
-User Interface: Streamlit for web interface, or Jupyter Notebooks for interactive use
+User Interface: Streamlit for web interface, or Jupyter Notebooks.
+<img width="601" alt="Image Search Project SS" src="https://github.com/Ahsaan100/Image-Search-Using-Python-and-Deep-Learning/assets/112726701/14d54c73-7fa2-42f4-afd8-27bd0b4f02a4">
